@@ -3,3 +3,6 @@ downloads/
 7Downloader.egg-info
 build/
 build
+/dist/downloads
+venv/
+.venv/
